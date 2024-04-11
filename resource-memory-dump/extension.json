@@ -1,0 +1,9 @@
+{
+	"extension_api": 1,
+	"name": "Resource Memory Dump",
+	"version": "1.0",
+	"minimum_renderdoc": "1.32",
+	"description": "",
+	"author": "cignoir <cignoir@gmail.com>",
+	"url": ""
+}
