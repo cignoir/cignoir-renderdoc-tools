@@ -3,7 +3,7 @@
 	"name": "Resource Memory Dump",
 	"version": "1.0",
 	"minimum_renderdoc": "1.32",
-	"description": "",
+	"description": "Dumps resource sizes in a tabular format.",
 	"author": "cignoir <cignoir@gmail.com>",
-	"url": ""
+	"url": "https://github.com/cignoir/cignoir-renderdoc-tools"
 }
